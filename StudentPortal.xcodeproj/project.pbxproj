@@ -13,6 +13,8 @@
 		4AA1BB95267D467F00E64995 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4AA1BB93267D467F00E64995 /* Main.storyboard */; };
 		4AA1BB97267D468300E64995 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4AA1BB96267D468300E64995 /* Assets.xcassets */; };
 		4AA1BB9A267D468300E64995 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4AA1BB98267D468300E64995 /* LaunchScreen.storyboard */; };
+		4AA1BBC4267D4DC100E64995 /* StudentDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AA1BBC3267D4DC100E64995 /* StudentDetailViewController.swift */; };
+		4AA1BBC7267D50C500E64995 /* Student.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AA1BBC6267D50C500E64995 /* Student.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		4AA1BB96267D468300E64995 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4AA1BB99267D468300E64995 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4AA1BB9B267D468300E64995 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4AA1BBC3267D4DC100E64995 /* StudentDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudentDetailViewController.swift; sourceTree = "<group>"; };
+		4AA1BBC6267D50C500E64995 /* Student.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Student.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +67,8 @@
 				4AA1BB96267D468300E64995 /* Assets.xcassets */,
 				4AA1BB98267D468300E64995 /* LaunchScreen.storyboard */,
 				4AA1BB9B267D468300E64995 /* Info.plist */,
+				4AA1BBC3267D4DC100E64995 /* StudentDetailViewController.swift */,
+				4AA1BBC6267D50C500E64995 /* Student.swift */,
 			);
 			path = StudentPortal;
 			sourceTree = "<group>";
@@ -140,6 +146,8 @@
 				4AA1BB92267D467F00E64995 /* ViewController.swift in Sources */,
 				4AA1BB8E267D467F00E64995 /* AppDelegate.swift in Sources */,
 				4AA1BB90267D467F00E64995 /* SceneDelegate.swift in Sources */,
+				4AA1BBC7267D50C500E64995 /* Student.swift in Sources */,
+				4AA1BBC4267D4DC100E64995 /* StudentDetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
