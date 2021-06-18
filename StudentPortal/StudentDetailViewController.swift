@@ -17,6 +17,7 @@ class StudentDetailViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         loadStudent()
+        // dummy
     }
     
     func loadStudent() {
